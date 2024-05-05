@@ -1,0 +1,5 @@
+python-dotenv
+streamlit
+langchain_core
+langsmith
+langchain_google_genai
